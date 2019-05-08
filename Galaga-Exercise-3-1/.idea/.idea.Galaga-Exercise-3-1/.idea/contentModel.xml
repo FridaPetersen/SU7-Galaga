@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$/../../../../../../Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$/../../../../../../Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Galaga-Exercise-3-1.1990451699.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Galaga-Exercise-3-1.csproj" t="IncludeRecursive" />
+      <e p="Galagabus.cs" t="Include" />
+      <e p="GalagaEntities" t="Include">
+        <e p="Enemy" t="Include">
+          <e p="Enemy.cs" t="Include" />
+        </e>
+      </e>
+      <e p="GalagaStates" t="Include">
+        <e p="GamePaused.cs" t="Include" />
+        <e p="GameRunning.cs" t="Include" />
+        <e p="GameStateType.cs" t="Include" />
+        <e p="MainMenu.cs" t="Include" />
+        <e p="StateMachine.cs" t="Include" />
+        <e p="StateTransformer.cs" t="Include" />
+      </e>
+      <e p="Game.cs" t="Include" />
+      <e p="MovementStrategy" t="Include">
+        <e p="Down.cs" t="Include" />
+        <e p="IMovementStrategy.cs" t="Include" />
+        <e p="NoMove.cs" t="Include" />
+        <e p="ZigZagDown.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="OpenTK.dll.config" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Player.cs" t="Include" />
+      <e p="PlayerShot.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Score.cs" t="Include" />
+      <e p="Squadrons" t="Include">
+        <e p="Double_Formation.cs" t="Include" />
+        <e p="ISquadrons.cs" t="Include" />
+        <e p="V_Formation.cs" t="Include" />
+        <e p="Zig_Zag_Formation.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
